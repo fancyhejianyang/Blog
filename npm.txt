@@ -1,0 +1,12 @@
+//帮助资料网址：http://www.runoob.com/nodejs/nodejs-npm.html
+npm集成在了node.js中，所以安装node.js即可。
+1、检查版本更新
+npm -v
+npm install npm -g (g表示全局)
+2、使用npm 安装express web框架
+npm install express
+3、npm init 初始化模块包
+在当前工程目录下 npm init //其实是发布包的过程，属于你自己的包
+npm publish
+
+4.使用express
