@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/runoob/runoob/issues"
   },
-  "homepage": "https://github.com/runoob/runoob#readme"
+  "homepage": "https://github.com/runoob/runoob#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.14.0"
+  }
 }
